@@ -19,8 +19,8 @@ This is a simple terminal-based Tic-Tac-Toe (X-O) game for two players written i
 
 1. Clone this repository or download the code:
    ```bash
- git clone  https://github.com/simo-SM/Tic-Tac-Toe-game.git
- cd Tic-Tac-Toe-game
- python3 Gime_X_O.py
+    git clone  https://github.com/simo-SM/Tic-Tac-Toe-game.git
+    cd Tic-Tac-Toe-game
+    python3 Gime_X_O.py
 
 
