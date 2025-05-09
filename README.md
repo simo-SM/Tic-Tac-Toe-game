@@ -19,4 +19,6 @@ This is a simple terminal-based Tic-Tac-Toe (X-O) game for two players written i
 
 1. Clone this repository or download the code:
    ```bash
-   
+   https://github.com/simo-SM/Tic-Tac-Toe-game.git
+
+
