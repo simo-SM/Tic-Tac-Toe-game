@@ -1,5 +1,6 @@
 
-# 🎮 Tic-Tac-Toe Game (X-O)
+ ![Screenshot 2025-05-09 153437](https://github.com/user-attachments/assets/5d97e443-05a6-459c-8dbd-18f30413988b)
+# 🎮Tic-Tac-Toe Game (X-O)
 
 This is a simple terminal-based Tic-Tac-Toe (X-O) game for two players written in Python.
 
